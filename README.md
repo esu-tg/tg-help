@@ -25,13 +25,31 @@ tg://proxy?server=Bow.MonsterX.space&port=443&secret=eec254a2b7f3080ac6ff9465eef
 
 **QQ浏览器，谷歌浏览器，火狐浏览器**都可以成功叫出电报APP。但是UC浏览器，华为浏览器做不到，请看下面图片步骤： <br>
 以QQ浏览器为例： <br>
+
 **第一步：**在网页上复制神秘链接 <br>
+
 ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/proxy1.png) <br><br>
+
 **第二步：**把神秘链接粘贴到地址栏并打开 <br>
+
 ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/proxy2.png) <br><br>
+
 **第三步：**如果电报跳出来了，点击右下角按键，没跳出来则再试一次第二步 <br>
+
 ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/proxy3.png) <br><br>
-**第四步：**稍等片刻，看看是否成功，不成功的话，请到上面换一条线路复制，再试一次。 <br>
+
+**第四步：**稍等片刻，看看是否连接成功，不成功的话，请到上面换一条线路复制，再试一次。 <br>
+
 ![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/proxy4.png) <br><br>
 
 ## 使用中文汉化
+都是英文看不懂？没事，电报APP有志愿者提供了中文翻译，10秒变中文！ <br>
+首先，**必须要让电报连上网**，通过上面的四个步骤，才能更换中文。 <br>
+**第一步：**复制下面这条神秘链接 <br>
+
+```
+tg://setlanguage?lang=classic-zh-cn
+```
+
+**第二步**把神秘链接粘贴到地址栏并打开 <br>
+![图片加载失败，请刷新网页](https://raw.githubusercontent.com/esu-tg/tg-help/master/help-img/proxy2.png) <br><br>
